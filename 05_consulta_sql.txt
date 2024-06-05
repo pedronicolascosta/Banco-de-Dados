@@ -1,0 +1,3 @@
+SELECT * FROM `usuario` WHERE `Email` LIKE 'cliented@email.com' AND `Senha` LIKE 'cliente123'
+
+SELECT * FROM `usuario` WHERE `Email` LIKE 'cliented@email.com' AND `Senha` LIKE 'cliente1234'
